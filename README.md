@@ -7,4 +7,4 @@
 </p> </ul>
 <h3>Framework-Based Projects</h3>
   <li><a href =""><b>[ISPRGG2]</b></a> <i>Basic Student Enrollment System</i> using .NET Framework (C#), AWS Elastic Beanstalk and Database Deployment</li>
-  <li><a href =""><b>[ENTPROG]</b></a> <i>Bayanihand</i> using .NET Framework and Entity Framework Core (C#) - Incomplete</li>
+  <li><a href =""><b>[ENTPROG]</b></a> <i>Bayanihand</i> using .NET Framework and Entity Framework Core (C#) - Incomplete (Contribution: Authentication, Authorization, Database Migrations, Handyman Profile, Front-End Development)</li>

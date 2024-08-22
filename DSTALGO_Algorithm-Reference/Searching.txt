@@ -1,0 +1,43 @@
+    public class SearchingAlgorithms
+    {
+        // Linear Search
+        public static int linearSearch(int[] array, int k)
+        {
+            for (int i = 0; i < array.Length; i+=1)
+            {
+                if (k == array[i])
+                {
+                    return i;
+                }
+            }
+            return -1;
+        }
+
+        public static int binarySearch(int[] array, int k) 
+        {
+            int min = 0, max = array.Length - 1;
+
+            while (min <= max) 
+            {
+                int mid = 1 + (max - min) / 2;
+
+                if (array[mid] == k)
+                {
+                    return mid;
+                }
+
+                else if (k > array[mid])
+                {
+                    min = mid + 1;
+                }
+
+                //else
+                else  if (k < array[mid])
+                {
+                    max = mid - 1;
+                }
+            }
+
+            return -1;
+        }
+    }

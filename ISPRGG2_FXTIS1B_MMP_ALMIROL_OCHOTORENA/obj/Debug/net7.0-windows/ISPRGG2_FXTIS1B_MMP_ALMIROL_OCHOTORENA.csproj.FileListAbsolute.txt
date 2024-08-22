@@ -1,0 +1,112 @@
+C:\Users\Andrea\OneDrive - ust.edu.ph\Desktop\VS Projects\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\obj\Debug\net7.0-windows\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA.csproj.AssemblyReference.cache
+C:\Users\Andrea\OneDrive - ust.edu.ph\Desktop\VS Projects\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\obj\Debug\net7.0-windows\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA.ContactsPanel.resources
+C:\Users\Andrea\OneDrive - ust.edu.ph\Desktop\VS Projects\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\obj\Debug\net7.0-windows\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA.Form1.resources
+C:\Users\Andrea\OneDrive - ust.edu.ph\Desktop\VS Projects\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\obj\Debug\net7.0-windows\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA.Menu.resources
+C:\Users\Andrea\OneDrive - ust.edu.ph\Desktop\VS Projects\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\obj\Debug\net7.0-windows\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA.Properties.Resources.resources
+C:\Users\Andrea\OneDrive - ust.edu.ph\Desktop\VS Projects\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\obj\Debug\net7.0-windows\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA.Registration.resources
+C:\Users\Andrea\OneDrive - ust.edu.ph\Desktop\VS Projects\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\obj\Debug\net7.0-windows\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA.Verification.resources
+C:\Users\Andrea\OneDrive - ust.edu.ph\Desktop\VS Projects\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\obj\Debug\net7.0-windows\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA.csproj.GenerateResource.cache
+C:\Users\Andrea\OneDrive - ust.edu.ph\Desktop\VS Projects\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\obj\Debug\net7.0-windows\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrea\OneDrive - ust.edu.ph\Desktop\VS Projects\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\obj\Debug\net7.0-windows\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA.AssemblyInfoInputs.cache
+C:\Users\Andrea\OneDrive - ust.edu.ph\Desktop\VS Projects\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\obj\Debug\net7.0-windows\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA.AssemblyInfo.cs
+C:\Users\Andrea\OneDrive - ust.edu.ph\Desktop\VS Projects\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\obj\Debug\net7.0-windows\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA.csproj.CoreCompileInputs.cache
+C:\Users\Andrea\OneDrive - ust.edu.ph\Desktop\VS Projects\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\bin\Debug\net7.0-windows\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA.exe
+C:\Users\Andrea\OneDrive - ust.edu.ph\Desktop\VS Projects\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\bin\Debug\net7.0-windows\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA.deps.json
+C:\Users\Andrea\OneDrive - ust.edu.ph\Desktop\VS Projects\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\bin\Debug\net7.0-windows\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA.runtimeconfig.json
+C:\Users\Andrea\OneDrive - ust.edu.ph\Desktop\VS Projects\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\bin\Debug\net7.0-windows\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA.dll
+C:\Users\Andrea\OneDrive - ust.edu.ph\Desktop\VS Projects\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\bin\Debug\net7.0-windows\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA.pdb
+C:\Users\Andrea\OneDrive - ust.edu.ph\Desktop\VS Projects\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Users\Andrea\OneDrive - ust.edu.ph\Desktop\VS Projects\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Users\Andrea\OneDrive - ust.edu.ph\Desktop\VS Projects\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Andrea\OneDrive - ust.edu.ph\Desktop\VS Projects\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Andrea\OneDrive - ust.edu.ph\Desktop\VS Projects\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Andrea\OneDrive - ust.edu.ph\Desktop\VS Projects\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Andrea\OneDrive - ust.edu.ph\Desktop\VS Projects\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\bin\Debug\net7.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\Andrea\OneDrive - ust.edu.ph\Desktop\VS Projects\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Andrea\OneDrive - ust.edu.ph\Desktop\VS Projects\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Andrea\OneDrive - ust.edu.ph\Desktop\VS Projects\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Andrea\OneDrive - ust.edu.ph\Desktop\VS Projects\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Andrea\OneDrive - ust.edu.ph\Desktop\VS Projects\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Andrea\OneDrive - ust.edu.ph\Desktop\VS Projects\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Andrea\OneDrive - ust.edu.ph\Desktop\VS Projects\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Andrea\OneDrive - ust.edu.ph\Desktop\VS Projects\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\bin\Debug\net7.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\Andrea\OneDrive - ust.edu.ph\Desktop\VS Projects\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\bin\Debug\net7.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Andrea\OneDrive - ust.edu.ph\Desktop\VS Projects\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\bin\Debug\net7.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Andrea\OneDrive - ust.edu.ph\Desktop\VS Projects\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Andrea\OneDrive - ust.edu.ph\Desktop\VS Projects\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Users\Andrea\OneDrive - ust.edu.ph\Desktop\VS Projects\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\Andrea\OneDrive - ust.edu.ph\Desktop\VS Projects\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\bin\Debug\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Andrea\OneDrive - ust.edu.ph\Desktop\VS Projects\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Andrea\OneDrive - ust.edu.ph\Desktop\VS Projects\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Andrea\OneDrive - ust.edu.ph\Desktop\VS Projects\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Andrea\OneDrive - ust.edu.ph\Desktop\VS Projects\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Andrea\OneDrive - ust.edu.ph\Desktop\VS Projects\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Andrea\OneDrive - ust.edu.ph\Desktop\VS Projects\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\bin\Debug\net7.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\Andrea\OneDrive - ust.edu.ph\Desktop\VS Projects\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\bin\Debug\net7.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\Andrea\OneDrive - ust.edu.ph\Desktop\VS Projects\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\bin\Debug\net7.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\Andrea\OneDrive - ust.edu.ph\Desktop\VS Projects\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\bin\Debug\net7.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Andrea\OneDrive - ust.edu.ph\Desktop\VS Projects\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\bin\Debug\net7.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Andrea\OneDrive - ust.edu.ph\Desktop\VS Projects\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\bin\Debug\net7.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Andrea\OneDrive - ust.edu.ph\Desktop\VS Projects\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Andrea\OneDrive - ust.edu.ph\Desktop\VS Projects\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\obj\Debug\net7.0-windows\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA.csproj.CopyComplete
+C:\Users\Andrea\OneDrive - ust.edu.ph\Desktop\VS Projects\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\obj\Debug\net7.0-windows\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA.dll
+C:\Users\Andrea\OneDrive - ust.edu.ph\Desktop\VS Projects\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\obj\Debug\net7.0-windows\refint\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA.dll
+C:\Users\Andrea\OneDrive - ust.edu.ph\Desktop\VS Projects\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\obj\Debug\net7.0-windows\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA.pdb
+C:\Users\Andrea\OneDrive - ust.edu.ph\Desktop\VS Projects\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\obj\Debug\net7.0-windows\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA.genruntimeconfig.cache
+C:\Users\Andrea\OneDrive - ust.edu.ph\Desktop\VS Projects\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\obj\Debug\net7.0-windows\ref\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA.dll
+C:\Users\gyalm\OneDrive\Desktop\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\obj\Debug\net7.0-windows\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA.csproj.AssemblyReference.cache
+C:\Users\gyalm\OneDrive\Desktop\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\obj\Debug\net7.0-windows\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA.ContactsPanel.resources
+C:\Users\gyalm\OneDrive\Desktop\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\obj\Debug\net7.0-windows\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA.Form1.resources
+C:\Users\gyalm\OneDrive\Desktop\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\obj\Debug\net7.0-windows\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA.Menu.resources
+C:\Users\gyalm\OneDrive\Desktop\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\obj\Debug\net7.0-windows\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA.Properties.Resources.resources
+C:\Users\gyalm\OneDrive\Desktop\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\obj\Debug\net7.0-windows\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA.Registration.resources
+C:\Users\gyalm\OneDrive\Desktop\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\obj\Debug\net7.0-windows\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA.Verification.resources
+C:\Users\gyalm\OneDrive\Desktop\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\obj\Debug\net7.0-windows\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA.csproj.GenerateResource.cache
+C:\Users\gyalm\OneDrive\Desktop\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\obj\Debug\net7.0-windows\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gyalm\OneDrive\Desktop\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\obj\Debug\net7.0-windows\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA.AssemblyInfoInputs.cache
+C:\Users\gyalm\OneDrive\Desktop\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\obj\Debug\net7.0-windows\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA.AssemblyInfo.cs
+C:\Users\gyalm\OneDrive\Desktop\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\obj\Debug\net7.0-windows\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA.csproj.CoreCompileInputs.cache
+C:\Users\gyalm\OneDrive\Desktop\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\obj\Debug\net7.0-windows\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA.dll
+C:\Users\gyalm\OneDrive\Desktop\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\obj\Debug\net7.0-windows\refint\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA.dll
+C:\Users\gyalm\OneDrive\Desktop\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\obj\Debug\net7.0-windows\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA.pdb
+C:\Users\gyalm\OneDrive\Desktop\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\bin\Debug\net7.0-windows\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA.exe
+C:\Users\gyalm\OneDrive\Desktop\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\bin\Debug\net7.0-windows\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA.deps.json
+C:\Users\gyalm\OneDrive\Desktop\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\bin\Debug\net7.0-windows\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA.runtimeconfig.json
+C:\Users\gyalm\OneDrive\Desktop\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\bin\Debug\net7.0-windows\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA.dll
+C:\Users\gyalm\OneDrive\Desktop\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\bin\Debug\net7.0-windows\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA.pdb
+C:\Users\gyalm\OneDrive\Desktop\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Users\gyalm\OneDrive\Desktop\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Users\gyalm\OneDrive\Desktop\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\gyalm\OneDrive\Desktop\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\gyalm\OneDrive\Desktop\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\gyalm\OneDrive\Desktop\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\gyalm\OneDrive\Desktop\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\bin\Debug\net7.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\gyalm\OneDrive\Desktop\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\gyalm\OneDrive\Desktop\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\gyalm\OneDrive\Desktop\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\gyalm\OneDrive\Desktop\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\gyalm\OneDrive\Desktop\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\gyalm\OneDrive\Desktop\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\gyalm\OneDrive\Desktop\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\gyalm\OneDrive\Desktop\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\bin\Debug\net7.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\gyalm\OneDrive\Desktop\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\bin\Debug\net7.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\gyalm\OneDrive\Desktop\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\bin\Debug\net7.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\gyalm\OneDrive\Desktop\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\gyalm\OneDrive\Desktop\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Users\gyalm\OneDrive\Desktop\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\gyalm\OneDrive\Desktop\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\bin\Debug\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\gyalm\OneDrive\Desktop\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\gyalm\OneDrive\Desktop\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gyalm\OneDrive\Desktop\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gyalm\OneDrive\Desktop\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gyalm\OneDrive\Desktop\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gyalm\OneDrive\Desktop\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\bin\Debug\net7.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\gyalm\OneDrive\Desktop\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\bin\Debug\net7.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\gyalm\OneDrive\Desktop\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\bin\Debug\net7.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\gyalm\OneDrive\Desktop\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\bin\Debug\net7.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\gyalm\OneDrive\Desktop\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\bin\Debug\net7.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\gyalm\OneDrive\Desktop\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\bin\Debug\net7.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\gyalm\OneDrive\Desktop\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\gyalm\OneDrive\Desktop\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\obj\Debug\net7.0-windows\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA.csproj.CopyComplete
+C:\Users\gyalm\OneDrive\Desktop\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\obj\Debug\net7.0-windows\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA.genruntimeconfig.cache
+C:\Users\gyalm\OneDrive\Desktop\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA\obj\Debug\net7.0-windows\ref\ISPRGG2_FXTIS1B_MMP_ALMIROL_OCHOTORENA.dll

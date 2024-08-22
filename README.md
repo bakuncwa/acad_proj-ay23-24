@@ -7,6 +7,6 @@
 </p> </ul>
 <h3>Framework-Based Projects</h3>
 <p> <ul>
-  <li><a href =""><b>[ISPRGG2]</b></a> <i>Basic Student Enrollment System</i> using .NET Framework (C#), AWS Elastic Beanstalk and Database Deployment</li>
+  <li><a href =""><b>[ISPRGG2]</b></a> <i>Basic Student Enrollment System</i> using .NET Framework (C#), AWS Elastic Beanstalk and Database Deployment - Contribution: Data Access and Business Logic Layer Development, Validation Testing, Modal Alerts, Front and Back-end Development, AWS Website and Database Deployment</li>
   <li><a href ="https://github.com/bakuncwa/acad_proj-ay23-24/blob/main/ENTPROG_XTIS3_Almirol-Gamoras-Hacinas_Bayanihand.zip"><b>[ENTPROG]</b></a> <i>Bayanihand</i> using .NET Framework and Entity Framework Core (C#) - <b><a href="https://drive.google.com/drive/folders/1rj7OXScdhnzvtNmcrl-GiVAFecqbQY3N?usp=sharing">Photo Demo</a></b> - Contribution: Database and System Design, Database Migrations, Login and Registration, Role Authorization, Validation Testing, Handyman Profile Development, Front and Back-end Development</li>
 </p> </ul>
